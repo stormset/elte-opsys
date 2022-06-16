@@ -1,0 +1,8 @@
+Name;Area;Application Count
+Tapsi Hapsi;Lovas;10
+Álmos;Barátfa;1
+Huba;Lovas;6
+Bojtos;Malom telek;1
+Füles;Káposztás kert;1
+Foltos;Kígyós-patak;5
+Bundás;Szula;3
